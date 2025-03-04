@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    background-color:aqua;
+}
+img{
+    width: 100px;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20%;
+       
+}
+.textlogo {
+    width: 200px;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+    margin: 50px 500px 0px 500px;
+    padding-left: 10px;
+    padding-right: 12px;
+    background-color: #fff;
+    
+}
+.login-page {
+    padding-right: 6px;
+   
+
+
+    
+}
+.sign-in {
+    margin-bottom: 20px;
+}
+.sign-in a{
+    text-decoration: none;
+    padding: 5px;
+    font-size: larger;
+    
+    
+}
+.sign-in a:hover{
+   text-decoration: underline;
+}
+.btn{
+    width: 100%;  
+    height: 30px; 
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    background-color: gray;
+}
+input{
+    width: 100%;
+    height: 25px;
+    border-radius:5px;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+}
+
+.btn1{
+    width: 100%;
+    background-color:beige;
+    font-size:20px;
+    font-weight: 20;
+    border-radius: 5px;  
+    color: gray;  
+}
+.btn a {
+    text-decoration: none;
+}
+.btn1 a {
+    text-decoration: none;
+}
+.btn1 img {
+    width: 25px;
+    height: 25px;
+    border-radius:50%;
+    background-color:#3897f0;
+
+}
+.playstore {
+    align-items: center;
+    margin: 5px 500px 10px 500px;
+    padding-top: 5px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.playstore img {
+    margin: 0px 0px 0px 30px;
+}

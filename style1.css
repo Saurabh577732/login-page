@@ -1,0 +1,67 @@
+.container {
+    background-color: rgb(210, 210, 236);
+    text-align: center;
+    margin: 50px 480px 0px 480px;
+    border-radius: 5px;
+}
+.login-page img {
+    width: 50px;
+    height: 50px;
+    margin: 30px 20px 20px 20px;
+}
+input {
+    width: 80%;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+}
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.sign-in {
+    height: 30px;
+    width: 50%;
+    background-color: blueviolet;
+    border: none;
+}
+.btn a img {
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+
+
+}
+.btn {
+    height: 80px;
+    width: 80%;
+   
+}
+.forgotbtn {
+    border: none;
+}
+.log-in a {
+    text-decoration: none;
+    color: blue;
+    margin-left: 5px;
+}
+.log-in a:hover {
+    text-decoration: underline;
+    
+}
+.playstore {
+    align-items: center;
+    margin: 5px 400px 10px 450px;
+    padding-top: 5px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-left: ;
+}
+.playstore img {
+    padding: 5px;   
+    width: 100px;
+ 
+}
+.fb {
+    
+}
